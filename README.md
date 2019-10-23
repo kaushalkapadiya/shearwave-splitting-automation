@@ -2,5 +2,5 @@
 ''' 3k '''
 Automation of shearwave splitting using python
 
-download split-wave form the github
-
+Download split-wave form the github
+  link:https://github.com/kaushalkapadiya/splitwavepy
